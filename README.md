@@ -15,6 +15,15 @@
 - pandas
 - openpyxl
 
+### Скриншоты
+
+<image-card alt="Результат парсинга" src="image.png" ></image-card>
+
+### Возможные улучшения в будущем
+- Telegram-бот на основе этого парсера
+- Фильтры по автору и тегам
+- GUI-интерфейс
+
 ### Как запустить
 
 ```bash
@@ -26,3 +35,4 @@ pip install -r requirements.txt
 
 # 3. Запусти
 python main.py
+
