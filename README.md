@@ -28,7 +28,7 @@
 
 ```bash
 # 1. Клонируй репозиторий
-git clone https://github.com/TimPalladin/quotes-parser.git
+git clone https://github.com/TimPalladin/Quote-parser.git
 
 # 2. Установи зависимости
 pip install -r requirements.txt
